@@ -1,5 +1,5 @@
 # OOΛ
-## Perotti Samuele, MAT: 899817
+## Perotti Samuele, <s.perotti4@campus.unimib.it>
 
 Questo programma Common Lisp è un'estensione per implementare il paradigma
 orientato agli oggetti. Consente la creazione di classi, istanze, campi e
@@ -197,5 +197,5 @@ NIL***
 
 ## Credits
 
-- Perotti Samuele, MAT: 899817
+- Perotti Samuele, <s.perotti4@campus.unimib.it>
 - UNIMIB, Programming Languages Course
